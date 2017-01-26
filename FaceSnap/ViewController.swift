@@ -23,6 +23,10 @@ class PhotoListController: UIViewController {
         return button
     }()
     
+    lazy var mediaPickerManager: MediaPickerManager = {
+        let manager = MediaPickerManager(presentingViewController: self)
+        return manager
+    }()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -55,7 +59,7 @@ class PhotoListController: UIViewController {
     //MARK: - Image Picker Controller
 
     @objc private func presentImagePickerController(){
-        
+        mediaPickerManager.presentImagePickerController(animated: true)
     }
 }
 
