@@ -11,6 +11,7 @@
 		BD14D2941E39FE72000BFBDE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD14D2931E39FE72000BFBDE /* ViewController.swift */; };
 		BD14D2991E39FE72000BFBDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD14D2981E39FE72000BFBDE /* Assets.xcassets */; };
 		BD14D29C1E39FE72000BFBDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD14D29A1E39FE72000BFBDE /* LaunchScreen.storyboard */; };
+		BD14D2A41E3A046B000BFBDE /* MediaPickerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD14D2A31E3A046B000BFBDE /* MediaPickerManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		BD14D2981E39FE72000BFBDE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD14D29B1E39FE72000BFBDE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD14D29D1E39FE72000BFBDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD14D2A31E3A046B000BFBDE /* MediaPickerManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MediaPickerManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				BD14D2911E39FE72000BFBDE /* AppDelegate.swift */,
 				BD14D2931E39FE72000BFBDE /* ViewController.swift */,
+				BD14D2A31E3A046B000BFBDE /* MediaPickerManager.swift */,
 				BD14D2981E39FE72000BFBDE /* Assets.xcassets */,
 				BD14D29A1E39FE72000BFBDE /* LaunchScreen.storyboard */,
 				BD14D29D1E39FE72000BFBDE /* Info.plist */,
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD14D2941E39FE72000BFBDE /* ViewController.swift in Sources */,
+				BD14D2A41E3A046B000BFBDE /* MediaPickerManager.swift in Sources */,
 				BD14D2921E39FE72000BFBDE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

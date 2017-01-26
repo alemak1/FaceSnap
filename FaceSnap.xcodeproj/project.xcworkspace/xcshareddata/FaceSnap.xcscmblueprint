@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3C0D56DCB2579BF98317103CCB575F542BC644BC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3C0D56DCB2579BF98317103CCB575F542BC644BC" : 9223372036854775807,
+    "9E65DC655C0CE3D1B4BA1D38FA3D0D39788D5DDC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "444029F4-0E90-494A-ACF9-7CE80F6FE7EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3C0D56DCB2579BF98317103CCB575F542BC644BC" : "FaceSnap\/",
+    "9E65DC655C0CE3D1B4BA1D38FA3D0D39788D5DDC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FaceSnap",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FaceSnap.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alemak1\/FaceSnap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C0D56DCB2579BF98317103CCB575F542BC644BC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alemak1\/InteractiveStoryApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E65DC655C0CE3D1B4BA1D38FA3D0D39788D5DDC"
+    }
+  ]
+}
